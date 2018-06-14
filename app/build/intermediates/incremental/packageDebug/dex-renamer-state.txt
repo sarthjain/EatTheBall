@@ -1,0 +1,7 @@
+#Mon Sep 25 07:26:15 IST 2017
+base.0=C\:\\Users\\sarth\\AndroidStudioProjects\\EatTheBall\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4c11016820e189f0eefd3e7caed9e78f1b1e8eba
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\sarth\\AndroidStudioProjects\\EatTheBall\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_04dc6ec8e61413415d53afbe7fff5747ec986f65\\classes.dex
+base.1=C\:\\Users\\sarth\\AndroidStudioProjects\\EatTheBall\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_04dc6ec8e61413415d53afbe7fff5747ec986f65
+file.0=C\:\\Users\\sarth\\AndroidStudioProjects\\EatTheBall\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4c11016820e189f0eefd3e7caed9e78f1b1e8eba\\classes.dex

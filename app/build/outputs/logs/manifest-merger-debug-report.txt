@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\62a439f2cef37bdf944d65612bfa9231db8dee06\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\722ca9d73be2bcc6ef8cfb1be6a4a25968b8cafb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\8189f3ebfabc5dbdb0107a019f808c0732e4be25\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\b1e477598b981672ade33f41b23e4e106ebac966\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\66218c0f0b6605ac03b5ed7acb9667fa5949cf96\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\a9db4251f9b79eed61bf0bbcc386d07e10e5cdf1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\0bcce8b4789909867657255da70fafd5a88d09e2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\2cfc89f2b3fd996b594f011edce224736f5ac5e4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\ebcf9b3ada6727dfc36058aa075fa800e45c7a79\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sarthak jain\.android\build-cache\eb0b3eab9e16e460acc1fd23d9541ee810590b63\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.sarth.eattheball.start
+ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:12:19-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.sarth.eattheball.result
+ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:19:19-41
+activity#com.example.sarth.eattheball.MainActivity
+ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:20:9-59
+	android:name
+		ADDED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml:20:19-47
+uses-sdk
+INJECTED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\62a439f2cef37bdf944d65612bfa9231db8dee06\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\722ca9d73be2bcc6ef8cfb1be6a4a25968b8cafb\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\8189f3ebfabc5dbdb0107a019f808c0732e4be25\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\b1e477598b981672ade33f41b23e4e106ebac966\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\66218c0f0b6605ac03b5ed7acb9667fa5949cf96\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\a9db4251f9b79eed61bf0bbcc386d07e10e5cdf1\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\0bcce8b4789909867657255da70fafd5a88d09e2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\2cfc89f2b3fd996b594f011edce224736f5ac5e4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\ebcf9b3ada6727dfc36058aa075fa800e45c7a79\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sarthak jain\.android\build-cache\eb0b3eab9e16e460acc1fd23d9541ee810590b63\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\62a439f2cef37bdf944d65612bfa9231db8dee06\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sarthak jain\AndroidStudioProjects\EatTheBall\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\62a439f2cef37bdf944d65612bfa9231db8dee06\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\722ca9d73be2bcc6ef8cfb1be6a4a25968b8cafb\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\8189f3ebfabc5dbdb0107a019f808c0732e4be25\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\b1e477598b981672ade33f41b23e4e106ebac966\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\66218c0f0b6605ac03b5ed7acb9667fa5949cf96\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\a9db4251f9b79eed61bf0bbcc386d07e10e5cdf1\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\0bcce8b4789909867657255da70fafd5a88d09e2\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\2cfc89f2b3fd996b594f011edce224736f5ac5e4\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\ebcf9b3ada6727dfc36058aa075fa800e45c7a79\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\62a439f2cef37bdf944d65612bfa9231db8dee06\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\sarthak jain\.android\build-cache\62a439f2cef37bdf944d65612bfa9231db8dee06\output\AndroidManifest.xml:26:9-47
